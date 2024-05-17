@@ -1,0 +1,14 @@
+table {
+  font-size: 1.2rem;
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+th {
+  background-color: rgb(226, 219, 219);
+    border: 2px solid #000;
+  border-collapse: collapse;
+}
+td {
+    border: 2px solid #000;
+  border-collapse: collapse;
+}
